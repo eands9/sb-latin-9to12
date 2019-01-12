@@ -12,10 +12,10 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"ridiculous", sentence:""))
-        list.append(Word(word:"innate", sentence:""))
-        list.append(Word(word:"obstinate", sentence:""))
-        list.append(Word(word:"discern", sentence:""))
-        list.append(Word(word:"mediocre", sentence:""))
+        list.append(Word(word:"insidious", sentence:""))
+        list.append(Word(word:"rupture", sentence:""))
+        list.append(Word(word:"precipitate", sentence:""))
+        list.append(Word(word:"erudite", sentence:""))
+        list.append(Word(word:"colloquial", sentence:""))
     }
 }
