@@ -12,10 +12,10 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"ambiguity", sentence:""))
-        list.append(Word(word:"curriculum", sentence:""))
-        list.append(Word(word:"omnivorous", sentence:""))
-        list.append(Word(word:"bellicose", sentence:""))
-        list.append(Word(word:"electoral", sentence:""))
+        list.append(Word(word:"crescent", sentence:""))
+        list.append(Word(word:"obsequious", sentence:""))
+        list.append(Word(word:"transect", sentence:""))
+        list.append(Word(word:"precipice", sentence:""))
+        list.append(Word(word:"susceptible", sentence:""))
     }
 }
